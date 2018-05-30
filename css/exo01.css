@@ -1,0 +1,24 @@
+/* style exo01 */
+
+body{
+    background: lightblue;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0 auto;
+    font-size: 0.8em;
+}
+#conteneur{
+    margin: 0 auto;
+    height: auto;
+    width: 80%;
+    background: orange;
+}
+h1{ background: red;
+    width: 80%;
+    /* margin: 0 auto; */
+}
+p{
+    background: pink;
+    width: 75%;
+    height: auto;
+}
