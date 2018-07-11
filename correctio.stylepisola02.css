@@ -67,6 +67,14 @@ aside{
 .clear{
     clear: both;
 }
+nav ul li {
+    background: white;
+    color: #333;
+    display: inline-block;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+}
 /* article {
     background: #87cefa;
 
